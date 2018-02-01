@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'README'
 
 # General information about the project.
-project = 'Agiliq Books'
+project = 'Books by Agiliq'
 copyright = '2018, Agiliq'
 author = 'Agiliq'
 
