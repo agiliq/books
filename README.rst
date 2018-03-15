@@ -1,9 +1,9 @@
-A list of books by Agiliq
+Books by Agiliq
 ==========================
 
 - `Django Admin Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-admin-cookbook/>`_
 - `Django ORM Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-orm-cookbook/>`_
-- `Django API Polls Tutorial (Django 2.0) <http://books.agiliq.com/projects/django-api-polls-tutorial/>`_
+- `Building APIs with Django and Django Rest Framework (Django 2.0) <http://books.agiliq.com/projects/django-api-polls-tutorial/>`_
 - `Django Design Patterns (Oudated) <https://books.agiliq.com/projects/django-design-patterns/>`_
 - `Djen of Django (Oudated) <https://books.agiliq.com/projects/djenofdjango/>`_
 - `Django Gotchas (Oudated) <http://books.agiliq.com/projects/django-gotchas/>`_
