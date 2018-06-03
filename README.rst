@@ -4,6 +4,7 @@ Books by Agiliq
 - `Django Admin Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-admin-cookbook/>`_
 - `Django ORM Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-orm-cookbook/>`_
 - `Building APIs with Django and Django Rest Framework (Django 2.0) <http://books.agiliq.com/projects/django-api-polls-tutorial/>`_
+- `Building Multi Tenant Applications with Django (Django 2.0) <https://books.agiliq.com/projects/django-multi-tenant/>`_
 - `Django Projects Cookbook (Django 2.0) <https://books.agiliq.com/projects/djenofdjango/>`_
 - `Django Design Patterns (Outdated) <https://books.agiliq.com/projects/django-design-patterns/>`_
 - `Django Gotchas (Outdated) <http://books.agiliq.com/projects/django-gotchas/>`_
