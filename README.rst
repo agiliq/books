@@ -16,8 +16,12 @@ Django admin cookbook is intermediate level book about doing things with Dajngo 
 
 
 Building APIs with Django and Django Rest Framework
-++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Building APIs with Django and Django Rest Framework rewrites the beginner Django polls app to an API format using Django Rest Framework.
+
+Building Multi Tenant Applications with Django
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Building multi tenant applications with Django teaches how to build multi tenant apps and the various approaches to multi tenancy. In this book, you will rebuild the same app using the various methods to achieve multi-tenancy.
 
 
 Django Projects Cookbook
