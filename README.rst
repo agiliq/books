@@ -6,6 +6,7 @@ Books by Agiliq
 - `Building APIs with Django and Django Rest Framework (Django 2.0) <http://books.agiliq.com/projects/django-api-polls-tutorial/>`_
 - `Building Multi Tenant Applications with Django (Django 2.0) <https://books.agiliq.com/projects/django-multi-tenant/>`_
 - `Django Projects Cookbook (Django 2.0) <https://books.agiliq.com/projects/djenofdjango/>`_
+- `Software consulting Howto <https://www.agiliq.com/softwareconsulting/>`__ 
 - `Django Design Patterns (Outdated) <https://books.agiliq.com/projects/django-design-patterns/>`_
 - `Django Gotchas (Outdated) <http://books.agiliq.com/projects/django-gotchas/>`_
 
@@ -24,6 +25,11 @@ Building Multi Tenant Applications with Django
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 Building multi tenant applications with Django teaches how to build multi tenant apps and the various approaches to multi tenancy. In this book, you will rebuild the same app using the various methods to achieve multi-tenancy.
 
+
+Software consulting Howto
+++++++++++++++++++++++++++
+
+A book about setting up and running a well oiled software consulting business. Written in 2011. 
 
 Django Projects Cookbook
 ++++++++++++++++++++++++++++++++++++++++++++++
