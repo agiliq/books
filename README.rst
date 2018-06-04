@@ -9,6 +9,7 @@ Books by Agiliq
 - `Django Projects Cookbook (Django 2.0) <https://books.agiliq.com/projects/djenofdjango/>`_
 - `Software consulting Howto <https://www.agiliq.com/softwareconsulting/>`__ 
 - `Visual Arts with Python (Python 3.6) <https://books.agiliq.com/projects/Visual-Arts-with-Python/>`_
+- `Jounrneyman Python (Python 3.6) <https://books.agiliq.com/projects/Journeyman-Python/>`_
 - `Django Gotchas (Outdated) <http://books.agiliq.com/projects/django-gotchas/>`_
 
 
