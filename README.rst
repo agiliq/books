@@ -56,7 +56,7 @@ Django design patterns is a book about commonly occurring patterns and best prac
 
 
 Django Gotchas
-++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++
 
 
-A book about common mistakes people make while programming with Django
+A book about common mistakes people make while programming with Django.
