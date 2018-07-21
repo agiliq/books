@@ -1,6 +1,7 @@
 A list of books by Agiliq
 ==========================
 
+
 - `Django Admin Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-admin-cookbook/>`_
 - `Django ORM Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-orm-cookbook/>`_
 - `Django API Polls Tutorial (Django 1.8) <http://books.agiliq.com/projects/django-api-polls-tutorial/>`_
@@ -12,7 +13,9 @@ A list of books by Agiliq
 Django Admin Cookbook
 ++++++++++++++++++++++++++++++++++++++++++++++
 
-Django admin cookbook is intermediate level book about doing things with Dajngo admin, written in a question and answer style.
+Django Admin Cookbook is intermediate level book about doing things with Dajngo admin, written in a question and answer style.
+
+.. image:: book-covers/book-cover-dac-320.png
 
 
 Django API Polls Tutorial
