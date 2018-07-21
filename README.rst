@@ -2,13 +2,15 @@ Books by Agiliq
 ==========================
 
 
+.. image:: book-covers/merged.jpg
+
 - `Django Admin Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-admin-cookbook/>`_
 - `Django ORM Cookbook (Django 2.0) <https://books.agiliq.com/projects/django-orm-cookbook/>`_
 - `Building APIs with Django and Django Rest Framework (Django 2.0) <http://books.agiliq.com/projects/django-api-polls-tutorial/>`_
 - `Building Multi Tenant Applications with Django (Django 2.0) <https://books.agiliq.com/projects/django-multi-tenant/>`_
 - `Django Design Patterns (Outdated) <https://books.agiliq.com/projects/django-design-patterns/>`_
 - `Django Projects Cookbook (Django 2.0) <https://books.agiliq.com/projects/djenofdjango/>`_
-- `Software consulting Howto (2011) <https://www.agiliq.com/softwareconsulting/>`__ 
+- `Software consulting Howto (2011) <https://www.agiliq.com/softwareconsulting/>`__
 - `Visual Arts with Python (Python 3.6) <https://books.agiliq.com/projects/Visual-Arts-with-Python/>`_
 - `Jounrneyman Python (Python 3.6) <https://books.agiliq.com/projects/Journeyman-Python/>`_
 - `Django Gotchas (Outdated) <http://books.agiliq.com/projects/django-gotchas/>`_
@@ -34,7 +36,7 @@ Building multi tenant applications with Django teaches how to build multi tenant
 Software consulting Howto
 ++++++++++++++++++++++++++
 
-A book about setting up and running a well oiled software consulting business. Written in 2011. 
+A book about setting up and running a well oiled software consulting business. Written in 2011.
 
 Visual Arts with Python
 +++++++++++++++++++++++
