@@ -74,6 +74,14 @@ Learn advanced Python by reading code of well engineered software.
 
 .. image:: book-covers/book-cover-jop-320.png
 
+Essential Python Tools
+-------------------------
+
+
+`Read Essential Python Tools <https://books.agiliq.com/projects/essential-python-tools/en/latest/>`_
+
+.. image:: book-covers/book-cover-ept-320.png
+
 ----------
 
 Django Projects Cookbook
