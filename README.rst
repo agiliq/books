@@ -115,6 +115,8 @@ Django Design Patterns
 ++++++++++++++++++++++++++++++++++++++++++++++
 Django design patterns is a book about commonly occurring patterns and best practices in Django.
 
+.. image:: book-covers/book-cover-ddp-320.png
+
 ----------
 
 Django Gotchas
