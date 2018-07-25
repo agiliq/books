@@ -115,6 +115,8 @@ Django Design Patterns
 ++++++++++++++++++++++++++++++++++++++++++++++
 Django design patterns is a book about commonly occurring patterns and best practices in Django.
 
+`Read Django Design Patterns (Outdated) <https://books.agiliq.com/projects/django-design-patterns/>`_
+
 .. image:: book-covers/book-cover-ddp-320.png
 
 ----------
@@ -123,4 +125,8 @@ Django Gotchas
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 A book about common mistakes people make while programming with Django
+
+----------
+
+Thank you for reading our books.
 
