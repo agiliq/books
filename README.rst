@@ -11,6 +11,7 @@ Books by Agiliq
 - `Building Multi Tenant Applications with Django (Django 2.0) <https://books.agiliq.com/projects/django-multi-tenant/>`_
 - `Journeyman Python (Python 3.6) <https://books.agiliq.com/projects/Journeyman-Python/>`_
 - `Essential Python Tools (Python 3.6) <https://books.agiliq.com/projects/essential-python-tools/en/latest/>`_
+- `Tweetable Python (Python 3.6) <https://books.agiliq.com/projects/tweetable-python/>`_
 - `Django Projects Cookbook (Django 2.0) <https://books.agiliq.com/projects/djenofdjango/>`_
 - `Django Design Patterns (Outdated) <https://books.agiliq.com/projects/django-design-patterns/>`_
 - `Software consulting Howto (2011) <https://www.agiliq.com/softwareconsulting/>`__
@@ -83,6 +84,16 @@ Essential Python Tools
 .. image:: book-covers/book-cover-ept-320.png
 
 ----------
+
+Tweetable Python
+-----------------------
+
+Tiny Python programs (280 chars) which pack a punch. 
+
+`Read Tweetable Python <https://books.agiliq.com/projects/tweetable-python/>`_
+
+
+---------
 
 Django Projects Cookbook
 ++++++++++++++++++++++++++++++++++++++++++++++
